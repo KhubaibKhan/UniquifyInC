@@ -159,7 +159,6 @@ int main(int argc, char *argv[])
         printf("Wrong input arguments.\n");
         printf("Pass the name of the file as an argument.\n");
     }
-    
 
     return 0;
 }
